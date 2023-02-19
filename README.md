@@ -9,7 +9,7 @@ JavaScript web developer and web Designer with 3+ years of experience, I’ve be
 * 🌍  I'm based in Ensenada, Baja California, México
 * 🖥️  See my portfolio at [Showwcase.com](http://ocielgonzalezsolis.showwcase.com/)
 * ✉️  You can contact me at [ocielgonzalezsolis@hotmail.com](mailto:ocielgonzalezsolis@hotmail.com)
-* 🚀  I'm currently working on [Gif generator](http://gift-expert-soulis.netlify.app/)
+* 🚀  I'm currently working on [Soulis Store](https://github.com/ociel-gonzalez-solis/soulis-store)
 * 🧠  I'm learning NextJs, Tailwind, TypeScript, ReactJs, HTML5, CSS3, NestJs, tRPC, Prisma and Figma
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  I'm also a 3D animator and language enthusiast

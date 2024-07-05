@@ -1,18 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ociel Gonzalez Solis
 ============================================================================================================================================
 
-JavaScript web developer, Front-end engineer, 3D artist, Web Design enthusiast, Content Creator & Game dev
+PHP web developer, Full-Stack engineer, Laravel Artisan, Content Creator, Writter & Podcaster
 ----------------------------------------------------------------------------------------------------------
 
 JavaScript web developer and web Designer with 3+ years of experience, I’ve been working with a variety of open source technologies like Github, ReactJs, Tailwind and more. Typescript and Docker have been a game changer for me to develop great architecture and speed the project with containerization. Working with Linux systems both for work and as a hobby. I've also got experience with full stack development and databases like MongoDB and MySQL/PostgreSQL. Driven by a great optimism and an ever-growing desire to explore more, I do my work with passion and I’m always happy to help others.
 
-* 🌍  I'm based in Ensenada, Baja California, México
-* 🖥️  See my portfolio at [Showwcase.com](http://ocielgonzalezsolis.showwcase.com/)
-* ✉️  You can contact me at [ocielgonzalezsolis@hotmail.com](mailto:ocielgonzalezsolis@hotmail.com)
-* 🚀  I'm currently working on [Soulis Store](https://github.com/ociel-gonzalez-solis/soulis-store)
-* 🧠  I'm learning NextJs, Tailwind, TypeScript, ReactJs, HTML5, CSS3, NestJs, tRPC, Prisma and Figma
+* 🌍  I'm based in Baja California, México
+* 🚀  I'm currently working on Soulis Store.
+* 🧠  I'm learning Laravel, Tailwind, TypeScript, AlpineJs, HTML5, CSS3, PHP, Filament, Eloquent and much more.
 * 🤝  I'm open to collaborating on Interesting projects
-* ⚡  I'm also a 3D animator and language enthusiast
+* ⚡  I'm also a writter and podcaster!
 
 <a href="https://www.github.com/ociel-gonzalez-solis" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ociel-gonzalez-solis?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/ocielgonzalez98" target="_blank" rel="noreferrer"><img

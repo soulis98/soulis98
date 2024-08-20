@@ -12,8 +12,8 @@ JavaScript web developer and web Designer with 3+ years of experience, I’ve be
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  I'm also a writter and podcaster!
 
-<a href="https://www.github.com/soulis98s" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/soulis98s?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/ocielgonzalez98" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/soulis98" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/soulis98?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/ocielgonzalez98" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ocielgonzalez98?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
@@ -48,10 +48,10 @@ src="https://img.shields.io/twitter/follow/ocielgonzalez98?logo=twitter&style=fo
 
 ### Socials
 
-<p align="left"> <a href="https://www.dev.to/ocielgonzalez98" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/ociel.solis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/soulis98s" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ocielgonzalez98" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCEd-6_wIKsNlVgbk4Zxaj7Q" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.dev.to/ocielgonzalez98" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/ociel.solis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/soulis98" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ocielgonzalez98" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCEd-6_wIKsNlVgbk4Zxaj7Q" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/soulis98"><img src="https://github-readme-stats.vercel.app/api?username=soulis98s&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="soulis98s's GitHub stats" /></a>
+<a href="http://www.github.com/soulis98"><img src="https://github-readme-stats.vercel.app/api?username=soulis98&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="soulis98's GitHub stats" /></a>
